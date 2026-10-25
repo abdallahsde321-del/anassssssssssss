@@ -1,0 +1,2 @@
+yt-dlp
+streamlink>=7.0.0
